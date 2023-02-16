@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.625,=C:\Users\Manue\Desktop\Interaktiver Terminplaner 3.1\Progressbar\neu\LAdebalkenChat.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,N:\Manuel Hirschbolz\scrollbar gantt\Unit1.pas=N:\Manuel Hirschbolz\CIMOS-Gantt\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,N:\Manuel Hirschbolz\Gantt\CIMOS-Gantt\Interaktiver.dproj=N:\Manuel Hirschbolz\Gantt\CIMOS-Gantt\CIMOSGantt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.9\Progressbar\BProgressBar.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,C:\Users\Christian\Desktop\CIMOS-Gantt\CIMOSGantt.dproj=C:\Users\Christian\Desktop\CIMOS-Gantt\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,=N:\Manuel Hirschbolz\Gantt\CIMOS-Gantt\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.9\Progressbar\GGAUGE.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,N:\Manuel Hirschbolz\scrollbar gantt\Unit1.dfm=N:\Manuel Hirschbolz\CIMOS-Gantt\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.4\Unit2.pas=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.4\SpeichernFrageModalFenster.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.4\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.700,N:\Manuel Hirschbolz\Gantt\scrollbar gantt\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,N:\Manuel Hirschbolz\Gantt\CIMOS-Gantt\Interaktiver_Terminplaner.dproj=N:\Manuel Hirschbolz\Gantt\CIMOS-Gantt\Interaktiver.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.4\Unit2.dfm=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.4\SpeichernFrageModalFenster.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.9\UnitTerminKalender.dfm=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.9\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.4\SpeichernFrageModalFenster.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.9\UnitTerminKalender.pas=N:\Manuel Hirschbolz\Interaktiver Terminplaner 2.9\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
